@@ -1,0 +1,19 @@
+{
+  "name": "timianbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ip-cidr": "^4.0.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "sqlite3": "^5.1.7"
+  }
+}

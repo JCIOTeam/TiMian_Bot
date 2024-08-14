@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# Database
+database.db
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
